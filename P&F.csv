@@ -1,0 +1,10 @@
+species,taxa,P,F,source,note
+Habronattus pyrrithrix,arachnid,0,0.011,Taylor et al. 2016. Behav Ecol,
+Planigale maculata,mammal,0,0.00033,Webb et al. 2008. Austral Ecol,
+Parus major,bird,0.118,0.008528571,Lindstršm et al. 2006. Anim Behav,different bitterness level
+Parus major,bird,0.119,0.025714286,Lindstršm et al. 2006. Anim Behav,different bitterness level
+Parus major,bird,0.051,0.007842857,Lindstršm et al. 2006. Anim Behav,different bitterness level
+Chalcides sexlineatus,reptile,0.083,0.0348,Bene_ and Vesely. 2017. Zool,
+Gallus gallus domesticus,bird,0.256,0.00576,Siddall and Marples. 2008. Behav Ecol,
+Thalassoma bifasciatum,fish,0.05,0.5,Miller and Pawlik. 2013. Anim Behav,different warning signal color
+Thalassoma bifasciatum,fish,0.165,0.5,Miller and Pawlik. 2013. Anim Behav,different warning signal color

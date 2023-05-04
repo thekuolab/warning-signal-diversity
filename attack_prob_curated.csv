@@ -1,0 +1,135 @@
+author,journal,volume,species,prey_type,prey_presentation,cs,cs2,cs_property,us,us2,us_concentration,us_concentration_cal,attack_prob,way_of_learning,prey_presentation2,species2,cs3,us3
+"Hamalainen, L",J Anim Ecol,89,Cyanistes caeruleus,almond,simultaneous,pattern,pattern,square,chloroquine phosphate,bitterness,0.06,0.06,0.296,D,2,1,4,1
+"Hamalainen, L",J Anim Ecol,89,Cyanistes caeruleus,almond,simultaneous,pattern,pattern,square,chloroquine phosphate,bitterness,0.06,0.06,0.092,D,2,1,4,1
+"Hamalainen, L",J Anim Ecol,89,Cyanistes caeruleus,almond,simultaneous,pattern,pattern,square,chloroquine phosphate,bitterness,0.06,0.06,0.133,D,2,1,4,1
+"Hamalainen, L",J Anim Ecol,89,Cyanistes caeruleus,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.06,0.06,0.296,D,2,1,4,1
+"Paez, E",Proc B,288,Cyanistes caeruleus,almond,simultaneous,color+pattern,color+pattern,NA,chloroquine phosphate,bitterness,0.07,0.07,0.158,D,2,1,3,1
+"Ronka, K",Anim Behav,135,Cyanistes caeruleus,pastry,sequential,color,color,red/yellow,chloroquine diphosphate,bitterness,0.15,0.15,0,D,1,1,1,1
+"Aronsson, M",Anim Behav,75,Gallus gallus domesticus,mealworm,simultaneous,color+pattern,color+pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.511,D,2,2,3,1
+"Aronsson, M",Anim Behav,75,Gallus gallus domesticus,mealworm,simultaneous,color+pattern,color+pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.631,D,2,2,3,1
+"Aronsson, M",Anim Behav,84,Gallus gallus domesticus,mealworm,simultaneous,color+pattern,color+pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.355,D,2,2,3,1
+"Aronsson, M",Anim Behav,84,Gallus gallus domesticus,artificial,simultaneous,color+pattern,color+pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.557,D,2,2,3,1
+"Aronsson, M",Anim Behav,84,Gallus gallus domesticus,artificial,simultaneous,pattern,pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.659,D,2,2,4,1
+"Aronsson, M",Anim Behav,84,Gallus gallus domesticus,chicken feed,simultaneous,pattern,pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.755,D,2,2,4,1
+"Aronsson, M",Anim Behav,84,Gallus gallus domesticus,chicken feed,simultaneous,pattern,pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.792,D,2,2,4,1
+"Aronsson, M",Behav Ecol,20,Gallus gallus domesticus,mealworm,simultaneous,color+pattern,color+pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.167,D,2,2,3,1
+"Aronsson, M",Behav Ecol,20,Gallus gallus domesticus,mealworm,simultaneous,color+pattern,color+pattern,NA,quinine hydrochloride,bitterness,0.03,0.03,0.384,D,2,2,3,1
+"Bosque, RJ",Ecol Evol,8,Gallus gallus domesticus,chicken feed,simultaneous,color+pattern,color+pattern,NA,chloroquine,bitterness,0.1,0.1,0.088,D,2,2,3,1
+"Bosque, RJ",Ecol Evol,8,Gallus gallus domesticus,chicken feed,simultaneous,color+pattern,color+pattern,NA,chloroquine,bitterness,0.1,0.1,0.091,D,2,2,3,1
+"Bosque, RJ",Ecol Evol,8,Gallus gallus domesticus,chicken feed,simultaneous,color+pattern,color+pattern,NA,chloroquine,bitterness,0.1,0.1,0.217,D,2,2,3,1
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,3.1,NA,0,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,3.1,NA,0,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,3.1,NA,0,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,3.1,NA,0,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,3.1,NA,0,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,3.1,NA,0,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,NA,NA,0,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,NA,NA,0,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,3.1,NA,0.009,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,3.1,NA,0.019,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,NA,NA,0.167,D,2,2,1,2
+"Chouteau, M",Anim Behav,153,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,prey defense,toxin,NA,NA,0.204,D,2,2,1,2
+"D'Heursel, A",Ethol Ecol Evol,11,Gallus gallus domesticus,tadpoles,simultaneous,general appearance,color+pattern,NA,prey defense,toxin,NA,NA,0.462,D,2,2,3,2
+"Gagliardo, A",Proc B,251,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine + mustard,bitterness,0.06,0.06,0.006,D,2,2,1,1
+"Gagliardo, A",Proc B,251,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine + mustard,bitterness,0.06,0.06,0.007,D,2,2,1,1
+"Gagliardo, A",Proc B,251,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine + mustard,bitterness,0.06,0.06,0.019,D,2,2,1,1
+"Gagliardo, A",Proc B,251,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine + mustard,bitterness,0.06,0.06,0.031,D,2,2,1,1
+"Pegram, KV",Behav Processes,187,Gallus gallus domesticus,mealworm,sequential,color,color,NA,quinine hydrochloride + mustard,bitterness,0.06,0.06,0.344,D,1,2,1,1
+"Pegram, KV",Behav Processes,187,Gallus gallus domesticus,mealworm,sequential,color,color,NA,quinine hydrochloride + mustard,bitterness,0.06,0.06,0.462,D,1,2,1,1
+"Pegram, KV",Behav Processes,187,Gallus gallus domesticus,mealworm,sequential,color,color,NA,quinine hydrochloride + mustard,bitterness,0.06,0.06,0.59,D,1,2,1,1
+"Pegram, KV",Behav Processes,187,Gallus gallus domesticus,mealworm,sequential,color,color,NA,quinine hydrochloride + mustard,bitterness,0.06,0.06,0.638,D,1,2,1,1
+"Pegram, KV",Behav Processes,187,Gallus gallus domesticus,mealworm,sequential,color,color,NA,quinine hydrochloride + mustard,bitterness,0.06,0.06,0.736,D,1,2,1,1
+"Pegram, KV",Behav Processes,187,Gallus gallus domesticus,mealworm,sequential,color,color,NA,quinine hydrochloride + mustard,bitterness,0.06,0.06,0.737,D,1,2,1,1
+"Roper, TJ",Behaviour,125,Gallus gallus domesticus,fluid,sequential,color,color,NA,quinine hydrochloride,bitterness,0.005,0.005,0.254,D,1,2,1,1
+"Rowland, HM",Biol Lett,6,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.06,0.06,0.2,D,2,2,1,1
+"Rowland, HM",Biol Lett,6,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.06,0.06,0.206,D,2,2,1,1
+"Rowland, HM",Biol Lett,6,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.06,0.06,0.286,D,2,2,1,1
+"Rowland, HM",Biol Lett,6,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.06,0.06,0.327,D,2,2,1,1
+"Rowland, HM",Biol Lett,6,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.06,0.06,0.363,D,2,2,1,1
+"Rowland, HM",Biol Lett,6,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.06,0.06,0.378,D,2,2,1,1
+"Salva, OR",Anim Behav,78,Gallus gallus domesticus,beads,sequential,color,color,NA,methyl anthranilate,bitterness,1,NA,0.073,D,1,2,1,1
+"Salva, OR",Anim Behav,78,Gallus gallus domesticus,beads,sequential,color,color,NA,methyl anthranilate,bitterness,1,NA,0.37,D,1,2,1,1
+"Salva, OR",Anim Behav,78,Gallus gallus domesticus,beads,sequential,color,color,NA,methyl anthranilate,bitterness,1,NA,0.577,D,1,2,1,1
+"Salva, OR",Anim Behav,78,Gallus gallus domesticus,beads,sequential,color,color,NA,methyl anthranilate,bitterness,1,NA,0.718,D,1,2,1,1
+"Siddall, EC",Behav Ecol,19,Gallus gallus domesticus,chicken feed,simultaneous,color+odor,color+other,NA,denatonium benzoate,bitterness,7.00E-04,0.014,0.11,D,2,2,2,1
+"Siddall, EC",Behav Ecol,19,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,denatonium benzoate,bitterness,7.00E-04,0.014,0.256,D,2,2,1,1
+"Skelhorn, J",Anim Behav,74,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine sulfate,bitterness,0.04,0.04,0.032,D,2,2,1,1
+"Skelhorn, J",Anim Behav,81,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,denatonium benzoate,bitterness,8.00E-04,0.016,0.295,D,2,2,1,1
+"Skelhorn, J",Anim Behav,81,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,denatonium benzoate,bitterness,8.00E-04,0.016,0.383,D,2,2,1,1
+"Skelhorn, J",Behav Ecol,17,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,denatonium benzoate,bitterness,0.001,0.02,0.007,D,2,2,1,1
+"Skelhorn, J",Behav Ecol,17,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,denatonium benzoate,bitterness,0.001,0.02,0.028,D,2,2,1,1
+"Skelhorn, J",Behav Ecol,17,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.007,D,2,2,1,1
+"Skelhorn, J",Behav Ecol,17,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.007,D,2,2,1,1
+"Skelhorn, J",Behav Ecol,17,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.01,D,2,2,1,1
+"Skelhorn, J",Behav Ecol,17,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.012,D,2,2,1,1
+"Skelhorn, J",Behav Ecol,17,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.028,D,2,2,1,1
+"Skelhorn, J",Behav Ecol,17,Gallus gallus domesticus,chicken feed,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.034,D,2,2,1,1
+"Skelhorn, J",Biol Lett,1,Gallus gallus domesticus,artificial,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.008,D,2,2,1,1
+"Skelhorn, J",Biol Lett,1,Gallus gallus domesticus,artificial,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.018,D,2,2,1,1
+"Skelhorn, J",Biol Lett,1,Gallus gallus domesticus,artificial,simultaneous,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.031,D,2,2,1,1
+"Fabricant, SA",Anim Behav,90,Parus major,mealworm,sequential,color+pattern,color+pattern,NA,quinine phosphate,bitterness,0.06,0.06,0.771,D,1,3,3,1
+"Fabricant, SA",Anim Behav,90,Parus major,mealworm,sequential,color+pattern,color+pattern,NA,quinine phosphate,bitterness,0.06,0.06,0.885,D,1,3,3,1
+"Fabricant, SA",Anim Behav,90,Parus major,mealworm,sequential,color+pattern,color+pattern,NA,quinine phosphate,bitterness,0.06,0.06,0.93,D,1,3,3,1
+"Hamalainen, L",Behav Ecol,31,Parus major,mealworm,sequential,color,color,NA,chloroquine diphosphate,bitterness,0.03,0.03,0.672,D,1,3,1,1
+"Hamalainen, L",Func Ecol,33,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.063,0.063,0.127,D,2,3,4,1
+"Hamalainen, L",Func Ecol,33,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.063,0.063,0.183,D,2,3,4,1
+"Hamalainen, L",J Anim Ecol,89,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.06,0.06,0.163,D,2,3,4,1
+"Hamalainen, L",J Anim Ecol,89,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.06,0.06,0.181,D,2,3,4,1
+"Hamalainen, L",J Anim Ecol,89,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.06,0.06,0.279,D,2,3,4,1
+"Ihalainen, E",J Evol Biol,20,Parus major,almond,simultaneous,pattern,pattern,NA,quinine phosphate,bitterness,0.036,0.036,0.185,D,2,3,4,1
+"Ihalainen, E",J Evol Biol,20,Parus major,almond,simultaneous,pattern,pattern,NA,quinine phosphate,bitterness,0.008,0.008,0.213,D,2,3,4,1
+"Ihalainen, E",J Evol Biol,20,Parus major,almond,simultaneous,pattern,pattern,NA,quinine phosphate,bitterness,0.036,0.036,0.293,D,2,3,4,1
+"Ihalainen, E",J Evol Biol,20,Parus major,almond,simultaneous,pattern,pattern,NA,quinine phosphate,bitterness,0.063,0.063,0.339,D,2,3,4,1
+"Ihalainen, E",J Evol Biol,20,Parus major,almond,simultaneous,pattern,pattern,NA,quinine phosphate,bitterness,0.008,0.008,0.417,D,2,3,4,1
+"Ihalainen, E",J Evol Biol,20,Parus major,almond,simultaneous,pattern,pattern,NA,quinine phosphate,bitterness,0.063,0.063,0.633,D,2,3,4,1
+"Lindstrom, L",Anim Behav,72,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.008,0.008,0.118,D,2,3,4,1
+"Lindstrom, L",Anim Behav,72,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.008,0.008,0.111,D,2,3,4,1
+"Lindstrom, L",Anim Behav,72,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.034,0.034,0.119,D,2,3,4,1
+"Lindstrom, L",Anim Behav,72,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.034,0.034,0.088,D,2,3,4,1
+"Lindstrom, L",Anim Behav,72,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.06,0.06,0.051,D,2,3,4,1
+"Lindstrom, L",Anim Behav,72,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.06,0.06,0.104,D,2,3,4,1
+"Lindstrom, L",Evolution,58,Parus major,almond,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.06,0.06,0.118,D,2,3,1,1
+"Lindstrom, L",Evolution,58,Parus major,almond,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.008,0.008,0.212,D,2,3,1,1
+"Lindstrom, L",Evolution,58,Parus major,almond,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.06,0.06,0.052,D,2,3,1,1
+"Lindstrom, L",Evolution,58,Parus major,almond,simultaneous,color,color,NA,chloroquine phosphate,bitterness,0.008,0.008,0.245,D,2,3,1,1
+"Lindstrom, L",Proc B,268,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.805,D,2,3,4,1
+"Lindstrom, L",Proc B,268,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.669,D,2,3,4,1
+"Lindstrom, L",Proc B,268,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.08,D,2,3,4,1
+"Lindstrom, L",Proc B,268,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.057,D,2,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,sequential,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.242,D,1,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.147,D,2,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.184,D,2,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,sequential,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.258,D,1,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.181,D,2,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.206,D,2,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,sequential,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.282,D,1,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,sequential,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.23,D,1,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.16,D,2,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.197,D,2,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.19,D,2,3,4,1
+"Rowe, C",Proc B,271,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.067,0.067,0.223,D,2,3,4,1
+"Rowland, HM",Behav Ecol,21,Parus major,almond,simultaneous,pattern,pattern,NA,chloroquine phosphate,bitterness,0.063,0.063,0.216,D,2,3,4,1
+"Barnett, CA",Behav Ecol,18,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.244,D,1,4,1,1
+"Barnett, CA",Behav Ecol,23,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.03,0.03,0.166,D,1,4,1,1
+"Barnett, CA",Behav Ecol,23,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.01,0.01,0.229,D,1,4,1,1
+"Barnett, CA",Biol Lett,10,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.207,D,1,4,1,1
+"Barnett, CA",Biol Lett,10,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.45,D,1,4,1,1
+"De Cock, R",Ethology,107,Sturnus vulgaris,mealworm+glow-worm larvae,sequential,general appearance,color+pattern,NA,prey defense,toxin,NA,NA,0.595,D,1,4,3,2
+"Halpin, CG",Anim Behav,85,Sturnus vulgaris,mealworm,sequential,color+size,color+other,NA,quinine sulfate,bitterness,0.04,0.04,0.401,D,1,4,2,1
+"Halpin, CG",Anim Behav,85,Sturnus vulgaris,mealworm,sequential,color+size,color+other,NA,quinine sulfate,bitterness,0.04,0.04,0.514,D,1,4,2,1
+"Halpin, CG",Anim Behav,85,Sturnus vulgaris,mealworm,sequential,color+size,color+other,NA,quinine sulfate,bitterness,0.04,0.04,0.522,D,1,4,2,1
+"Halpin, CG",Anim Behav,85,Sturnus vulgaris,mealworm,sequential,color+size,color+other,NA,quinine sulfate,bitterness,0.04,0.04,0.664,D,1,4,2,1
+"Halpin, CG",Proc B,281,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.04,0.04,0.359,D,1,4,1,1
+"Halpin, CG",Proc B,281,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.04,0.04,0.552,D,1,4,1,1
+"Skelhorn, J",Anim Behav,72,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.206,D,1,4,1,1
+"Skelhorn, J",Anim Behav,72,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.02,0.02,0.691,D,1,4,1,1
+"Skelhorn, J",Anim Behav,78,Sturnus vulgaris,mealworm,sequential,color,color,NA,denatonium benzoate,bitterness,8.00E-04,0.016,0,D,1,4,1,1
+"Skelhorn, J",Anim Behav,78,Sturnus vulgaris,mealworm,sequential,color,color,NA,denatonium benzoate,bitterness,1.00E-04,0.002,0.238,D,1,4,1,1
+"Skelhorn, J",Anim Behav,78,Sturnus vulgaris,mealworm,sequential,color,color,NA,denatonium benzoate,bitterness,1.00E-04,0.002,1,D,1,4,1,1
+"Skelhorn, J",Anim Behav,78,Sturnus vulgaris,mealworm,sequential,color,color,NA,denatonium benzoate,bitterness,8.00E-04,0.016,1,D,1,4,1,1
+"Skelhorn, J",Curr Biol,17,Sturnus vulgaris,mealworm,simultaneous,color+taste,color+other,NA,quinine sulfate,bitterness,0.02,0.02,0.506,D,2,4,2,1
+"Skelhorn, J",Curr Biol,17,Sturnus vulgaris,mealworm,sequential,color+taste,color+other,NA,quinine sulfate,bitterness,0.02,0.02,0.713,D,1,4,2,1
+"Smith, KE",Behav Ecol,27,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine,bitterness,0.04,0.04,0.506,D,1,4,1,1
+"Smith, KE",Behav Processes,109,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.04,0.04,0.094,D,1,4,1,1
+"Smith, KE",Behav Processes,109,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.04,0.04,0.126,D,1,4,1,1
+"Smith, KE",Behav Processes,109,Sturnus vulgaris,mealworm,sequential,color,color,NA,quinine sulfate,bitterness,0.04,0.04,0.181,D,1,4,1,1
