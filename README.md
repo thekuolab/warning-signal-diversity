@@ -30,10 +30,12 @@ Below is a list of files:
 **source:** the study from which I obtained the data  
 **note:** miscellaneous notes  
   
-3. learning.R: R code for simulating predator-prey interactions and predator learning  
+3. learning_IMB.R: R code for performing individual-based simulations of predator-prey interactions
+
+4. learning_ODE.R: R code for performing population-level simulations of predator-prey interactions  
   
-4. learning_functions.R: containing custom functions necessary for performing simulations  
+5. learning_functions.R: containing custom functions necessary for performing simulations  
   
-5. meta-analysis.R: R code for statistical meta-analysis  
+6. meta-analysis.R: R code for statistical meta-analysis  
   
-6. HighstatLibV10.R: R code from Zuur et al. (2009) containing custom functions for GL(M)M model validation
+7. HighstatLibV10.R: R code from Zuur et al. (2009) containing custom functions for GL(M)M model validation
