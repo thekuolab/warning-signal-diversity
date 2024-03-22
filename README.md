@@ -39,3 +39,5 @@ Below is a list of files:
 6. meta-analysis.R: R code for statistical meta-analysis  
   
 7. HighstatLibV10.R: R code from Zuur et al. (2009) containing custom functions for GL(M)M model validation
+
+8. Supplementary Materials_ver2.docx: Supplementary tables, figures,and references accompanying the main paper.
